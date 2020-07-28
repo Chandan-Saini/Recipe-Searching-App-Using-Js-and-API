@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is a app made using api for finding recipe",
   "main": "index.js",
+  "homepage": "http://Chandan-Saini.github.io/Recipe-Searching-App-Using-Js-and-API", 
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
