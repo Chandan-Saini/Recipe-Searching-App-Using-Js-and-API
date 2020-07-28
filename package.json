@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "description": "this is a app made using api for finding recipe",
   "main": "index.js",
-  "homepage": "http://Chandan-Saini.github.io/Recipe-Searching-App-Using-Js-and-API", 
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --mode development --open",
-    "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
+    "start": "webpack-dev-server --mode development --open"
   },
   "author": "chandan kumar",
   "license": "ISC",
