@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "start": "./node_modules/webpack/bin/webpack.js -p --progress && node server.js"
+    "start": "node server.js"
   },
   "author": "chandan kumar",
   "license": "ISC",
